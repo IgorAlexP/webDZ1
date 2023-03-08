@@ -1,0 +1,54 @@
+/* Задаем стили для заголовков */
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  /* Задаем стили для абзацев */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+  /* Задаем стили для списков */
+  ul, ol {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+    margin-left: 30px;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  /* Задаем стили для картинок */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Задаем стили для ссылок */
+  a {
+    color: #0000FF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  img {
+    max-width: 500px;
+    max-height: 300px;
+  }
+  
